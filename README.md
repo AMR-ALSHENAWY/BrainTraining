@@ -2,6 +2,9 @@
 
 ## Brian Training  is a native android application (Java) for simple math problems with timer and some animations
 
+<a href="https://drive.google.com/drive/folders/1Xnqk40bIFMEohNQvdyKE3yrMNPwi9_yP?usp=sharing">
+<img src="images/downloadAndroid.png"  width="250">  
+</a> 
 
 <table style="width:100%" >
   
@@ -56,6 +59,11 @@
   
 </table>
 
+# Brain Training video
+
+<a href="https://drive.google.com/file/d/1ezEUBCC9bIWzk_DhqppBKy4XYMeb6qOM/view?usp=sharing">
+<img src="images/youtube.png"  width="80">  
+</a> 
 
 # Follow Me 
 <table>
