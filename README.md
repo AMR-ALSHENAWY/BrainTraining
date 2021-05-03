@@ -1,6 +1,6 @@
 # Brain Training
 
-## Brian Training  is a native android application for simple math problems with timer and some animations
+## Brian Training  is a native android application for simple math problems with a timer and some animations
 
 <a href="https://drive.google.com/drive/folders/1Xnqk40bIFMEohNQvdyKE3yrMNPwi9_yP?usp=sharing">
 <img src="images/downloadAndroid.png"  width="250">  
