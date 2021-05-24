@@ -66,7 +66,7 @@
 # Brain Training video
 
 <a href="https://drive.google.com/file/d/1ezEUBCC9bIWzk_DhqppBKy4XYMeb6qOM/view?usp=sharing">
-<img src="images/youtube.png"  width="80">  
+<img src="https://image.flaticon.com/icons/png/128/187/187209.png"  width="80">  
 </a> 
 
 ---
