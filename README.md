@@ -6,6 +6,8 @@
 <img src="images/downloadAndroid.png"  width="250">  
 </a> 
 
+---
+
 <table style="width:100%" >
   
   <tr> 
@@ -59,32 +61,30 @@
   
 </table>
 
+---
+
 # Brain Training video
 
 <a href="https://drive.google.com/file/d/1ezEUBCC9bIWzk_DhqppBKy4XYMeb6qOM/view?usp=sharing">
 <img src="images/youtube.png"  width="80">  
 </a> 
 
-# Follow Me 
-<table>
-  <tr>
-  <th>
-    <a href="https://www.linkedin.com/in/amr-alshenawy">
-      <img src="images/linkedin.png"  width="60"> 
-    </a>
-    </th>
-   
-   
-   <th>
-    <a href="https://www.facebook.com/eng.amr.alshenawy">
-      <img src="images/facebook.png"  width="60"> 
-    </a>
-    </th>
-    
-   <th>
-    <a href="https://wa.me/+201067316151">
-      <img src="images/whatsapp.png"  width="60"> 
-    </a>
-   </th>
-  </tr>
-</table>
+---
+## Social Links 
+
+<a href="https://www.linkedin.com/in/amr-alshenawy">
+<img align="left" alt="Visual Studio Code" width="35px" src="https://image.flaticon.com/icons/png/128/1409/1409945.png" />
+</a> 
+ <a href="https://www.facebook.com/eng.amr.alshenawy">
+<img align="left" alt="Visual Studio Code" width="35px" src="https://image.flaticon.com/icons/png/128/1409/1409943.png" />
+  </a>
+  
+   <a href="https://wa.me/+201067316151">
+<img align="left" alt="Visual Studio Code" width="35px" src="https://image.flaticon.com/icons/png/128/220/220236.png" />
+  </a>
+  
+<a href="https://www.youtube.com/channel/UCbI1TeHt3OSKZyNBcgknVNg">
+<img width="35" src="https://image.flaticon.com/icons/png/128/187/187209.png" />
+  </a>
+
+---
